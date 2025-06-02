@@ -6,18 +6,15 @@
 #         self.right = right
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        #Create a global variable in which we store the current max diameter
         self.maxDiam = 0
         if root is None:
             return 0
         else:
-            #Call the diameter helper recursively, the maxDiam will get updated automatically -
-            #if needed, then returned
+            #Call the diameter helper recursively, the maxDiam will get updated automatically
             self.diameterOfBinaryTreeHelper(root)
             return self.maxDiam
     
     def diameterOfBinaryTreeHelper(self, root) -> int:
-        #If we are past a leaf node, stop recurring
         if root is None: 
             return 0
         else: 
