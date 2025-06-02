@@ -18,9 +18,9 @@ class Solution:
         if root is None: 
             return 0
         else: 
-            #Find the depths of the subtree to the left and to the right
+            #Find depth subtree in left and right
             leftDepth = self.diameterOfBinaryTreeHelper(root.left)
             rightDepth = self.diameterOfBinaryTreeHelper(root.right)
-            #Compare if at the given root the diameter is bigger than the current max
+            #Compare if at root, the diameter is greater than max
             self.maxDiam = max(leftDepth+rightDepth, self.maxDiam)
             return 1 + max(leftDepth, rightDepth)
