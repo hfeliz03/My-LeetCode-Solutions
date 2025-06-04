@@ -4,8 +4,7 @@ class Solution:
         if not nums: return 0
         if len(nums) == 1: return 1
     
-
-        i, totalCount = 0, 1 
+        totalCount = 1 
         for num in numSet:
             if num - 1 not in numSet:
                 count = 1
@@ -15,5 +14,4 @@ class Solution:
                     j+=1
                 totalCount = max(totalCount, count)
             
-
         return totalCount
