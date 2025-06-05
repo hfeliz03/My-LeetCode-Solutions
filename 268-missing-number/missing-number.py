@@ -3,7 +3,7 @@ class Solution:
         n = len(nums)
         setNums = set(range(n+1))
         print(setNums)
-        for i in setNums:
-            if i not in nums: return i
+        for i in nums:
+            setNums.discard(i)
 
-        return 
+        return setNums.pop()
