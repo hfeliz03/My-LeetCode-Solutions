@@ -1,8 +1,8 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        freq = {}
+        freq = set()
         for i in nums:
-            if i in freq.keys():
+            if i in freq:
                 return True
-            else: freq[i] = 1
+            else: freq.add(i)
         return False
