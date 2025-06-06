@@ -4,10 +4,11 @@ class Solution:
         freq = {}
         i = 0
         while i < len(s):
-            if s[i] not in freq.keys(): freq[s[i]] = 1
-            else: freq[s[i]] += 1
-            if t[i] not in freq.keys(): freq[t[i]] = -1
-            else: freq[t[i]] -= 1
+            si, ti = s[i], t[i]
+            if si not in freq.keys(): freq[si] = 1
+            else: freq[si] += 1
+            if ti not in freq.keys(): freq[ti] = -1
+            else: freq[ti] -= 1
             i +=1
         for i in freq.keys():
             if freq[i] != 0: return False
