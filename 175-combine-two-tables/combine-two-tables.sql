@@ -6,4 +6,4 @@ FROM
 LEFT JOIN 
     Address a 
 ON
-    a.personId = p.personId;
+    p.personId = a.personId;
