@@ -5,23 +5,29 @@
 #         self.next = next
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        newList = ListNode()
-        dummy = newList
-        pointers = [head for head in lists]
+        if not lists: return None 
 
-        while any(pointers):
-            
-            i, currSmallest = 0, None
-            currSmallestIndex = -1 
-            while i < len(pointers):
-                if pointers[i] and ( not currSmallest or pointers[i].val < currSmallest.val):
-                    currSmallest = pointers[i]
-                    currSmallestIndex = i
-                i+=1
-            dummy.next = currSmallest
-            dummy = dummy.next
-            pointers[currSmallestIndex] = pointers[currSmallestIndex].next
-        
+        while len(lists)>1:
+            merged = []
+            for i in range(0, len(lists), 2):
+                l1 = lists[i]
+                l2 = lists[i+1] if i+1 < len(lists) else None
+                merged.append(self.merge(l1,l2))
+            lists = merged
+        return lists[0]
+
+    def merge(self, l1, l2):
+        newList = ListNode()
+        tail = newList
+        while l1 and l2: 
+            if l1.val < l2.val:
+                tail.next = l1
+                l1 = l1.next
+            else:
+                tail.next = l2
+                l2 = l2.next
+            tail = tail.next
+        if l1: tail.next = l1
+        if l2: tail.next = l2
         return newList.next
-        
-        
+    
