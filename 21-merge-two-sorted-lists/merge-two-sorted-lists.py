@@ -18,9 +18,7 @@ class Solution:
                 curr2 = curr2.next
             ptr = ptr.next
 
-        if curr1 is None:
-            ptr.next = curr2
-        if curr2 is None:
-            ptr.next = curr1
+        if curr1 is None: ptr.next = curr2
+        if curr2 is None:ptr.next = curr1
 
         return dummy.next
