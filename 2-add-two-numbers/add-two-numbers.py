@@ -10,9 +10,8 @@ class Solution:
         dummyCurr = dummy
 
         while curr1 and curr2:
-            sumVal = (curr1.val + curr2.val)
+            sumVal = curr1.val + curr2.val
             if carryOne == True: sumVal +=1
-            ListNode((sumVal )%10)
             dummyCurr.next = ListNode(sumVal%10)
             carryOne = True if sumVal >= 10 else False
             dummyCurr = dummyCurr.next
@@ -24,7 +23,6 @@ class Solution:
             dummyCurr.next = ListNode(val%10)
             dummyCurr = dummyCurr.next
             curr1 = curr1.next
-            print(val)
         while curr2:
             val = curr2.val
             if carryOne == True: val+=1
