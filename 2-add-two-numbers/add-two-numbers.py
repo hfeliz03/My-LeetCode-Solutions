@@ -5,14 +5,14 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        curr1, curr2 = l1, l2
+        curr1, curr2, carryOne = l1, l2, False
         dummy = ListNode()
         dummyCurr = dummy
-        carryOne = False
+
         while curr1 and curr2:
             sumVal = (curr1.val + curr2.val)
-            if carryOne == True:sumVal +=1
-            ListNode((sumVal + 1)%10)
+            if carryOne == True: sumVal +=1
+            ListNode((sumVal )%10)
             dummyCurr.next = ListNode(sumVal%10)
             carryOne = True if sumVal >= 10 else False
             dummyCurr = dummyCurr.next
