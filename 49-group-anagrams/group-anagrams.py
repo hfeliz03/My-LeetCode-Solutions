@@ -4,10 +4,7 @@ class Solution:
         hashFreq = {}
         for word in strs:
             anagram  = {}
-            for letter in word :
-                anagram[letter] = anagram.get(letter, 0 ) + 1
-            
-            anagramKey = tuple(sorted(anagram.items()))
+            anagramKey = tuple(sorted(word))
             if anagramKey not in hashFreq.keys(): hashFreq[anagramKey] = []
             hashFreq[anagramKey].append(word)
         
