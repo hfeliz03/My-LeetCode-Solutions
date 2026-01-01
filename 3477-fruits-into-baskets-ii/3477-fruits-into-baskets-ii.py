@@ -1,10 +1,5 @@
-class Solution(object):
-    def numOfUnplacedFruits(self, fruits, baskets):
-        """
-        :type fruits: List[int]
-        :type baskets: List[int]
-        :rtype: int
-        """
+class Solution:
+    def numOfUnplacedFruits(self, fruits: List[int], baskets: List[int]) -> int:
         unplaced = 0
         for fruit in fruits:
             placed = False
