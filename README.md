@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3477-fruits-into-baskets-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3477-fruits-into-baskets-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -55,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
