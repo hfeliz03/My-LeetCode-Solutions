@@ -12,7 +12,7 @@ class Solution:
                 curr.append(nums2[j])
                 j+=1
             o+=1 
-            if o > (m+n)/2: break
+            if o > (m+n)/2: return (curr[-1] + curr[-2])/2 if (m+n) % 2 == 0 else curr[-1]
 
         while i < m and o <= (m+n)/2:
             curr.append(nums1[i])
