@@ -1,25 +1,27 @@
 class Solution:
     def sumFourDivisors(self, nums: List[int]) -> int:
-        memo = {}  # num -> sum of divisors if exactly 4 divisors, else 0
-        total = 0
-
+        sumDivisors = 0
+        numsWith4Divisors = {}
         for num in nums:
-            if num in memo.keys():
-                total += memo[num]
-                continue
-
-            # Find divisors via sqrt trick
-            divs = set([1, num])
             r = int(math.isqrt(num))
+            
+            if not numsWith4Divisors.get(num):
+                curDivisors = set([1,num])
+            else:
+                sumDivisors += numsWith4Divisors.get(num)
+                continue
+            
+            i = 2
 
-            for d in range(2, r + 1):
-                if num % d == 0:
-                    divs.add(d)
-                    divs.add(num // d)
-                    if len(divs) > 4:   # early stop, we don't care anymore
-                        break
-
-            memo[num] = sum(divs) if len(divs) == 4 else 0
-            total += memo[num]
-
-        return total
+            while i <= r:
+                if num % i == 0:
+                    curDivisors.add(i)
+                    curDivisors.add(num // i)
+                if len(curDivisors) > 4: break
+                i+=1
+            
+            if len(curDivisors) == 4:
+                numsWith4Divisors[num] = sum(curDivisors)
+                sumDivisors += numsWith4Divisors.get(num)
+        
+        return sumDivisors
