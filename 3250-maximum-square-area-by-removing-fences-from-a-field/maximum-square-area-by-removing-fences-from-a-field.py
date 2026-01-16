@@ -8,10 +8,10 @@ class Solution:
             for j in hFences[indexI+1:]:
                 hFencesDiff.add(abs(j - i))
         
-        vFencesDiff = set()
+        curMaxSquare = -1
         for indexI, i in enumerate(vFences):
             for j in vFences[indexI+1:]:
-                vFencesDiff.add(abs(j - i))
+                if (abs(j-i) in hFencesDiff):
+                    curMaxSquare = max(curMaxSquare, abs(j-i))
         
-        possibleSquares = hFencesDiff & vFencesDiff
-        return (max(possibleSquares) ** 2) % (10**9 + 7) if len(possibleSquares) > 0 else -1
+        return (curMaxSquare ** 2) % (10**9 + 7) if curMaxSquare > 0 else -1
