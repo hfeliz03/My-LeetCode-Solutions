@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1895-largest-magic-square](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [3453-separate-squares-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3453-separate-squares-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Math
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-largest-magic-square](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
