@@ -10,14 +10,11 @@ class Solution:
             '9': ["w", "x", "y", "z"],
         }
 
-    output = []
+    output = {""}
 
     def letterCombinations(self, digits: str) -> List[str]:
         if not digits:
             return list(self.output)
-
-        if len(self.output) == 0: 
-            self.output = {""}
         
         curOutput = self.output.copy()
         for i, letter in enumerate(self.letters[digits[0]]):
