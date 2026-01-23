@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0840-magic-squares-in-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
