@@ -3,7 +3,7 @@ class Solution:
         if k <= 1: return 0
 
         nums.sort()
-        minDiff = 10**5
+        minDiff = nums[-1] - nums[0]
 
         for i in range(len(nums) - k + 1):
             minDiff = min(minDiff, nums[i+k-1] - nums[i])
