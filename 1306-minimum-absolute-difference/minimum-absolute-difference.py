@@ -6,10 +6,11 @@ class Solution:
 
         for i in range(len(arr)-1):
             a, b = arr[i], arr[i+1] 
-            if abs(b-a) < minAbsDif:
-                minAbsDif = abs(b-a)
+            dif = abs(b-a)
+            if dif < minAbsDif:
+                minAbsDif = dif
                 pairs = [[a,b]]
-            elif abs(b-a) == minAbsDif:
+            elif dif == minAbsDif:
                 pairs.append([a,b])
             else:
                 continue
