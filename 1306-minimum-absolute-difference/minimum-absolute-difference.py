@@ -5,12 +5,11 @@ class Solution:
         pairs = []
 
         for i in range(len(arr)-1):
-            a, b = arr[i], arr[i+1] 
-            dif = b-a
+            dif = arr[i+1] - arr[i]
             if dif < minAbsDif:
                 minAbsDif = dif
-                pairs = [[a,b]]
+                pairs = [[arr[i],arr[i+1]]]
             elif dif == minAbsDif:
-                pairs.append([a,b])
+                pairs.append([arr[i],arr[i+1]])
         
         return pairs
