@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
