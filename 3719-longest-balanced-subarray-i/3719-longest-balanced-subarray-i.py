@@ -10,7 +10,7 @@ class Solution:
                     setOdds[nums[j]] = setOdds.get(nums[j], 0) + 1
                 else:
                     setEvens[nums[j]] = setEvens.get(nums[j], 0) + 1
-                if len(setEvens.keys()) == len(setOdds.keys()):
+                if len(setEvens) == len(setOdds):
                     res = max(res, j-i+1)
         
         return res
