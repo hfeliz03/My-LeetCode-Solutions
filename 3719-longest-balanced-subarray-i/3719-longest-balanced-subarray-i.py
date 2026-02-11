@@ -3,13 +3,13 @@ class Solution:
         n = len(nums)
         res = 0
         for i in range(n):
-            setEvens = {}
-            setOdds = {}
+            setEvens = set()
+            setOdds = set()
             for j in range(i,n):
                 if nums[j] % 2 == 1:
-                    setOdds[nums[j]] = setOdds.get(nums[j], 0) + 1
+                    setOdds.add(nums[j])
                 else:
-                    setEvens[nums[j]] = setEvens.get(nums[j], 0) + 1
+                    setEvens.add(nums[j])
                 if len(setEvens) == len(setOdds):
                     res = max(res, j-i+1)
         
