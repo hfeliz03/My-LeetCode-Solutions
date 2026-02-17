@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Linked List
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0401-binary-watch](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0401-binary-watch) |
 ## Two Pointers
 |  |
 | ------- |
