@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0840-magic-squares-in-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1390-four-divisors) |
