@@ -1,1 +1,1 @@
-<h2>check-if-a-string-contains-all-binary-codes-of-size-k Notes</h2><hr>[ Time taken: 20 m 19 s ]
+<h2>check-if-a-string-contains-all-binary-codes-of-size-k Notes</h2><hr>[ Time taken: 45 s ]
