@@ -6,23 +6,22 @@
 #         self.right = right
 class Solution:
     def sumRootToLeaf(self, root: Optional[TreeNode]) -> int:
-        nums = []
+        
         def helper(root, s):
-            if not root: return
+            nonlocal sumInt
+            if not root: 
+                return
             if not root.left and not root.right: 
-                nums.append(s + str(root.val))
+                sumInt += int(s + str(root.val),2)
                 return 
             else: 
                 helper(root.left, s + str(root.val))
                 helper(root.right, s + str(root.val))
                 return 
         
+        sumInt = 0
         helper(root, "")
 
-        print(nums)
-        sumInt = 0
-        for i in range(len(nums)):
-            sumInt += int(nums[i],2)
         return  sumInt
 
         
