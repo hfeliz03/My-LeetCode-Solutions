@@ -3,10 +3,9 @@ class Solution:
         res = []
         resDict = {}
         for num in arr:
-            binary = bin(num)[2:]
-            num1s = sum([int(char) for char in  binary])
+            num1s = num.bit_count()
             atNum1s = resDict.get(num1s, [])
-            atNum1s.append(binary)
+            atNum1s.append(bin(num)[2:])
             resDict[num1s] = atNum1s
 
         for setOfSame1s in sorted(resDict.keys()):
