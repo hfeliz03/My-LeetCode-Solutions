@@ -1,5 +1,6 @@
 class Solution:
     def minOperations(self, s: str, k: int) -> int:
+        ### DID NOT SOLVE THIS
         n = len(s)
         z, o = 0 , 0 
 
