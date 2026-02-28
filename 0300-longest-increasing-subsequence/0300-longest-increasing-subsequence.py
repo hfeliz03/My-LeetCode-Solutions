@@ -6,6 +6,5 @@ class Solution:
             for j in range(i+1, len(subSeq)):
                 if nums[j] > nums[i]:
                     subSeq[i] = max(subSeq[j] + 1, subSeq[i])
-        print(subSeq)
     
         return max(subSeq)
