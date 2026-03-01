@@ -1,8 +1,9 @@
 class Solution:
     def minPartitions(self, n: str) -> int:
-        nAsArr = [int(c) for c in n]
-        return max(nAsArr)
         
+        nAsArr = [c for c in n]
+        return int(max(nAsArr))
+
         # count = 0
         # s = ""
         # for i in range(len(n)):s += "1"
