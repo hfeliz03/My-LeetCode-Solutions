@@ -11,13 +11,10 @@ class Solution:
         if s1chars == s2chars: return True
 
         while r < len(s2):
-            left_char = s2[l]
-            s2chars[left_char] -= 1
-            if s2chars[left_char] == 0:
-                del s2chars[left_char]
+            s2chars[s2[l]] -= 1
+            if s2chars[s2[l]] == 0: del s2chars[s2[l]]
             l+=1
 
-            right_char = s2[r]
             s2chars[s2[r]] = s2chars.get(s2[r], 0) + 1
             r+=1
             
