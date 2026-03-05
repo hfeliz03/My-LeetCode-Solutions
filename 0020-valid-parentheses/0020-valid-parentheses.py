@@ -3,6 +3,7 @@ class Solution:
       # (((()))))]]]
       # If stack.peek != curr element closing parenthesis: return false 
       # If stack is still populated at the end, return false
+        if len(s) %2 != 0 : return False
         PARENS = {"(": ")", "[":"]", "{":"}"}
         stack = []
         for char in s:
