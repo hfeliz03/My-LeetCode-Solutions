@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0139-word-break) |
@@ -325,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
