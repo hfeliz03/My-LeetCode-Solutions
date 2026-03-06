@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0840-magic-squares-in-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0342-power-of-four](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0868-binary-gap) |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
