@@ -13,14 +13,18 @@ class Solution:
 
     def pickIndex(self) -> int:
         randomizedIVal = random.random()
-        res = 0
-        for i in range(len(self.probs)-1, -1, -1):
-            if randomizedIVal > self.probs[i]: 
-                res = i+1
-                break
-        return res
+        l, r = 0, len(self.probs)-1
+        while l <= r:
+            mid = ((r-l) // 2) + l
+            if randomizedIVal <= self.probs[mid]:
+                r = mid - 1
+            else:
+                l = mid + 1
+
+        return l
 
 #.12 .56 .04 .28
+#0.12, 0.68, 0.7200000000000001, 1.0
 # Your Solution object will be instantiated and called as such:
 # obj = Solution(w)
 # param_1 = obj.pickIndex()
