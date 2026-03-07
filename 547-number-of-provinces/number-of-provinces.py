@@ -5,17 +5,8 @@ class Solution:
         # Return the number of Connected Components (provinces)
         # The More connected components that we have, the more provinces. Thus if we find out that two components are connected, the number of provinces decrease
         # isConnected will always be a squared matrix
-        # 1 0 0 1
-        # 0 1 1 0
-        # 0 1 1 1
-        # 1 0 1 1
-        # 0->3 1->2 2->3 
-        # 0->3 3->2 2->1
-        # for row in isConnected:
-        #     print(row)
-        # print()
-        provinces = len(isConnected)
-        connected = [i for i in range(provinces)]
+
+        connected = [i for i in range(len(isConnected))]
 
         def dfs(row, component):
             j = 0
@@ -23,7 +14,6 @@ class Solution:
                 if isConnected[row][j] == 1 and row != j:
                     isConnected[row][j] = 0
                     isConnected[j][row] = 0
-                    connected[row] = component
                     connected[j] = component
                     dfs(j, component)
                 j+=1
@@ -31,11 +21,11 @@ class Solution:
 
         
         i = 0
-        while i < len(isConnected) and provinces > 1:
+        while i < len(isConnected):
             if connected[i] == i: #Is not explored by any other node previously
+
                 dfs(i,i)
             i+=1
 
-        print(connected)
         diffComponents = set(connected)
         return len(diffComponents)
