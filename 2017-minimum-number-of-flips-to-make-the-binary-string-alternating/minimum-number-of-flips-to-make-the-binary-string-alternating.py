@@ -19,7 +19,7 @@ class Solution:
         minDiff = min(diff1, diff0)
 
         j = windowS 
-        while j < len(s)-1:
+        while j < len(s):
             i = j-windowS
             if s[i] != start1[i]: diff1 -= 1 #Element out
             if s[i] != start0[i]: diff0 -= 1
