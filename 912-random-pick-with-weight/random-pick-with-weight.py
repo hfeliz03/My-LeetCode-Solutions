@@ -4,11 +4,10 @@ import random
 class Solution:
 
     def __init__(self, w: List[int]):
-        self.w = w
         self.sumW = sum(w)
         self.sumProb = 0
         self.probs = []
-        for i, num in enumerate(self.w):    #[1,3]
+        for num in w:    #[1,3]
             self.sumProb = self.sumProb+(num/self.sumW)
             self.probs.append(self.sumProb) #[0.25,1]
 
