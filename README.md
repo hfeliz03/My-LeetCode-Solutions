@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Greedy
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Graph Theory
 |  |
