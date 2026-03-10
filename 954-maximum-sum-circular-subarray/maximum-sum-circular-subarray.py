@@ -11,4 +11,4 @@ class Solution:
             globalMax = max(globalMax, curMax)
             globalMin = min(globalMin, curMin)
         
-        return max(globalMax, total - globalMin) if globalMax > 0 else max(nums)
+        return max(globalMax, total - globalMin) if globalMax > 0 else globalMax
