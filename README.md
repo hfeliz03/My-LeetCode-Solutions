@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0139-word-break) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0091-decode-ways) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0253-meeting-rooms-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0342-power-of-four](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Randomized
 |  |
