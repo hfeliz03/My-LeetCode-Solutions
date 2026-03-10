@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0097-interleaving-string) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0253-meeting-rooms-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
