@@ -5,10 +5,7 @@ class Solution:
         #2, 4, 3, 4, 4 Therefore start at 0, check whats at 0 + 2, grab the one that takes you the farthest, and do that greedly.
         #If you cant progress because youve fell in a 0, at that index's reach add a negative value so reaching that point is not encouraged.
         if len(nums) <= 1: return True
-        reach = []
-        for i,num in enumerate(nums):
-            reach.append(i+num)
-        print(reach)
+        reach = [i+num for i,num in enumerate(nums)]
         i = 0
         bestI = 0
         l = i
