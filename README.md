@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0746-min-cost-climbing-stairs](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
+| [0918-maximum-sum-circular-subarray](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1048-longest-string-chain](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1048-longest-string-chain](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -399,4 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
