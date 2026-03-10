@@ -1,13 +1,5 @@
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
-        #? matches one char
-        #* matches any number of chars. 0 and 1 included.
-        #iterate over the letters in p. if theres a p that is not ? nor *, then theres no way that p will form s
-        #if we find a ? simply match its index with the one in s and "skip"
-        #if we find * thats when we must start expanding the matching until p[i+1] == s[i] such but it could be the case where this is not enough to update the char and p and proceed to another one, this may be need to be done with DP.
-        #If we find a 
-        
-
         n, m = len(p), len(s)
         i = 0
         j = 0
