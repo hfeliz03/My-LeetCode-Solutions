@@ -6,11 +6,7 @@ class Solution:
         #if we find a ? simply match its index with the one in s and "skip"
         #if we find * thats when we must start expanding the matching until p[i+1] == s[i] such but it could be the case where this is not enough to update the char and p and proceed to another one, this may be need to be done with DP.
         #If we find a 
-        setCharS, setCharP = set(s), set(p)
-        unwanted = setCharP.difference(setCharS)
-        unwanted.discard("?")
-        unwanted.discard("*")
-        if len(unwanted) > 0: return False
+        
 
         n, m = len(p), len(s)
         i = 0
