@@ -7,16 +7,12 @@ class Solution:
         # return the length of that array
         if not intervals: return 0
         intervals.sort()
-        currFinishingTimes = [intervals[0][1]]
+        currFinishingTimes = []
+        heapq.heappush(currFinishingTimes, intervals[0][1])
         for i in intervals[1:]:
-            needNewRoom = True
-            for j in range(len(currFinishingTimes)):
-                if i[0] >= currFinishingTimes[j]: 
-                    currFinishingTimes[j] = i[1] # that room can be used for the new meeting i
-                    needNewRoom = False
-                    break
-
-            if needNewRoom == True: currFinishingTimes.append(i[1]) # if the start of an interval is smaller than the end of all others on-goning, we have a conflict, need to use a new room
+            if i[0] >= currFinishingTimes[0]: 
+                heapq.heappop(currFinishingTimes) 
+            heapq.heappush(currFinishingTimes, i[1]) # if the start of an interval is smaller than the end of all others on-goning, we have a conflict, need to use a new room
 
 
         return len(currFinishingTimes)
