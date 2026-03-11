@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0840-magic-squares-in-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0253-meeting-rooms-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
