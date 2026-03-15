@@ -6,6 +6,7 @@
 #         self.right = right
 class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
+        if not root: return 0
         minDepth = 10**5
         def dfs(root, level):
             nonlocal minDepth
@@ -16,6 +17,5 @@ class Solution:
             if root.left : dfs(root.left, level+1)
             if root.right :dfs(root.right, level+1)
 
-        if root: dfs(root, 1) 
-        else: minDepth = 0
+        dfs(root, 1) 
         return minDepth
