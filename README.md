@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [3477-fruits-into-baskets-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Ordered Set
@@ -471,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
