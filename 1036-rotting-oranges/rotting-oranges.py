@@ -1,8 +1,5 @@
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
-        #    2 1 1 
-        #    0 1 1
-        #.   1 0 1 We can shortcircuit on minute 0 if on its 4 directions theres no orange
 
         # index is not m+n 
         def rots(i,j):
@@ -18,22 +15,22 @@ class Solution:
             return 
 
         #Checks if solitary orange that will never rot exists. checks if theres any rotten
-        rottenExists = False
-        freshExists = False
-        for i, row in enumerate(grid):
-            for j, orange in enumerate(row):
-                if grid[i][j] == 2: rottenExists = True
-                if grid[i][j] == 1:
-                    freshExists = True
-                    unrottable = True
-                    if (j<len(grid[0])-1 and grid[i][j+1] != 0) or (j > 0 and grid[i][j-1] != 0) or (i > 0 and grid[i-1][j]!= 0) or (i<len(grid)-1 and grid[i+1][j] != 0):
-                        unrottable = False
-                    if unrottable == True : return -1
+        # rottenExists = False
+        # freshExists = False
+        # for i, row in enumerate(grid):
+        #     for j, orange in enumerate(row):
+        #         if grid[i][j] == 2: rottenExists = True
+        #         if grid[i][j] == 1:
+        #             freshExists = True
+        #             unrottable = True
+        #             if (j<len(grid[0])-1 and grid[i][j+1] != 0) or (j > 0 and grid[i][j-1] != 0) or (i > 0 and grid[i-1][j]!= 0) or (i<len(grid)-1 and grid[i+1][j] != 0):
+        #                 unrottable = False
+        #             if unrottable == True : return -1
         
 
         minutes = 0
-        if freshExists == False: return minutes
-        if rottenExists == False: return -1
+        # if freshExists == False: return minutes
+        # if rottenExists == False: return -1
 
         while True: #while I have elements to rot
             i = 0
