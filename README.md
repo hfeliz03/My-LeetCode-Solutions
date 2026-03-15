@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
