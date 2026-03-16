@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Recursion
 |  |
