@@ -18,6 +18,9 @@ class Solution:
         curSubstrFreq = Counter()
 
         while i < len(s):
+            if s[i] not in tFreqs: 
+                i+=1
+                continue
             # grow window until it becomes valid or j reaches end
             while j < len(s) and dict(curSubstrFreq & tFreqs) != tFreqs:
                 curSubstrFreq[s[j]] += 1
