@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1895-largest-magic-square) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Greedy
