@@ -1,6 +1,5 @@
 class Solution:
     def maxProductPath(self, grid: List[List[int]]) -> int:
-        res = -1
         MOD = 10**9 + 7
         m, n = len(grid), len(grid[0])
         #At every step, store the possibilities and take the one thats best
@@ -23,10 +22,8 @@ class Solution:
         for i in range(m-2, -1, -1):
             for j in range(n-2, -1, -1):
                 val = grid[i][j]
-                dp[i][j] = [min(val*dp[i+1][j][0], val*dp[i+1][j][1], val*dp[i][j+1][0], val*dp[i][j+1][1]), max(val*dp[i+1][j][0], val*dp[i+1][j][1], val*dp[i][j+1][0], val*dp[i][j+1][1])]
-
-        # print(dp[1][1][0])
-        for row in dp: print(row)
+                res = [val*dp[i+1][j][0], val*dp[i+1][j][1], val*dp[i][j+1][0], val*dp[i][j+1][1]]
+                dp[i][j] = [min(res), max(res)]
 
 
         return max(dp[0][0][0], dp[0][0][1]) % MOD if (dp[0][0][0] >= 0 or dp[0][0][1] >= 0) else -1
