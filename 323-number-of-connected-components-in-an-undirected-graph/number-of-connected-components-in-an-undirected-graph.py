@@ -12,19 +12,16 @@ class Solution:
             adjList[y] = adjList.get(y, set())
             adjList[y].add(x)
 
-        def bfs(neighbors):
-            while neighbors:
-                cur = neighbors.pop()
-                toVisit.discard(cur)
-                for element in adjList[cur]: 
-                    if element in toVisit:
-                        neighbors.add(element) 
-
         while toVisit:
             curNode = toVisit.pop()
-            if curNode in adjList:
+            if curNode in adjList.keys():
                 neighbors = adjList[curNode]
-                bfs(neighbors)
+                while neighbors:
+                    cur = neighbors.pop()
+                    toVisit.discard(cur)
+                    for element in adjList[cur]: 
+                        if element in toVisit:
+                            neighbors.add(element) 
             comps += 1
 
         return comps
