@@ -1,7 +1,6 @@
 class Solution:
     def countComponents(self, n: int, edges: List[List[int]]) -> int:
         adjList = {}
-        visited = set()
         toVisit = set(element for element in range(n))
         comps = 0
 
@@ -17,14 +16,12 @@ class Solution:
             while neighbors:
                 cur = neighbors.pop()
                 toVisit.discard(cur)
-                visited.add(cur)
                 for element in adjList[cur]: 
-                    if element not in visited:
+                    if element in toVisit:
                         neighbors.add(element) 
 
         while toVisit:
             curNode = toVisit.pop()
-            visited.add(curNode)
             if curNode in adjList:
                 neighbors = adjList[curNode]
                 bfs(neighbors)
