@@ -1,1 +1,1 @@
-<h2>implement-trie-prefix-tree Notes</h2><hr>[ Time taken: 4m 8s ]
+<h2>implement-trie-prefix-tree Notes</h2><hr>[ Time taken: 1m 8s ]
