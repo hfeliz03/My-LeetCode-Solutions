@@ -1,20 +1,18 @@
 class Trie:
 
     def __init__(self):
-        self.words = []
+        self.bagOfWords = set()
 
     def insert(self, word: str) -> None:
-        self.words.append(word)
+        self.bagOfWords.add(word)
 
     def search(self, word: str) -> bool:
-        return word in self.words
+        return word in self.bagOfWords
 
     def startsWith(self, prefix: str) -> bool:
-        lenPrefix = len(prefix)
-        if not self.words: return False
-        for word in self.words:
-            if len(word) >= lenPrefix and word[:lenPrefix] == prefix:
-                return True
+        n = len(prefix)
+        for word in list(self.bagOfWords):
+            if word[:n] == prefix: return True
         return False
 
 
