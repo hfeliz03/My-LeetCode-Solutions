@@ -2,18 +2,18 @@ class Trie:
 
     def __init__(self):
         self.bagOfWords = set()
+        self.prefixes = set()
 
     def insert(self, word: str) -> None:
         self.bagOfWords.add(word)
+        for i in range(len(word)):
+            self.prefixes.add(word[:i+1])
 
     def search(self, word: str) -> bool:
         return word in self.bagOfWords
 
     def startsWith(self, prefix: str) -> bool:
-        n = len(prefix)
-        for word in list(self.bagOfWords):
-            if word[:n] == prefix: return True
-        return False
+        return prefix in self.prefixes 
 
 
 # Your Trie object will be instantiated and called as such:
