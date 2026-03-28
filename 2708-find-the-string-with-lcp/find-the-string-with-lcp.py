@@ -1,5 +1,6 @@
 class Solution:
     def findTheString(self, lcp: List[List[int]]) -> str:
+        #bro what
         n = len(lcp)
         curr = 1
         letters = [0] * n
