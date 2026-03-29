@@ -1,8 +1,7 @@
 from collections import Counter
 class Solution:
     def canBeEqual(self, s1: str, s2: str) -> bool:        
-        freq1, freq2 = Counter(s1), Counter(s2)
-        if freq1 != freq2 : return False
+        
         s1s, s2s = {s1}, {s2}
         #abcd, cbad, cdab, adcb
         s1s.add(s1[2]+s1[1]+s1[0]+s1[3])
