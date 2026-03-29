@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0269-alien-dictionary](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0269-alien-dictionary) |
 | [0647-palindromic-substrings](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0269-alien-dictionary](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0269-alien-dictionary) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Enumeration
 |  |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1622-fancy-sequence](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 ## Topological Sort
 |  |
