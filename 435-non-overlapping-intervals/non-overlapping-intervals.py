@@ -1,9 +1,8 @@
 class Solution:
     def eraseOverlapIntervals(self, intervals: List[List[int]]) -> int:
         #I want to maximize the number of intervals, because big intervals steal space for other intervals to be there.
-        
+        #Earliest finish time
         intervals.sort(key = lambda x: x[1] )
-        print(intervals)
         count = 1
         curEnd = intervals[0][1]
         for interval in intervals[1:]:
