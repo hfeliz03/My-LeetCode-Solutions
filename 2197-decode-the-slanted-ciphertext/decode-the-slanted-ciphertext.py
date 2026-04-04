@@ -26,10 +26,6 @@ class Solution:
         #Stop when you reach the end of original text
         originalText = ""
         m, n = rows, len(encodedText)//rows
-        print(f"{len(encodedText)=}")
-        print(f"{m=}")
-        print(f"{n=}")
-
         # #find last character Unnecessary asl womp womp
         # for elementInLastCol in range(n-1,m*n,n):
         #     if encodedText[elementInLastCol] != " ":
@@ -43,6 +39,5 @@ class Solution:
                 i = col + (row*(n+1))
                 if i >= len(encodedText): break
                 originalText += encodedText[i]
-                
         
         return originalText.rstrip()
