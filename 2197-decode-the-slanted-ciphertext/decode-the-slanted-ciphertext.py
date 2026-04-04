@@ -24,20 +24,13 @@ class Solution:
 
         #Add the character at m+n. If we do m steps then that means we have to go back to the start of "a new col"
         #Stop when you reach the end of original text
-        originalText = ""
+        originalText = []
         m, n = rows, len(encodedText)//rows
-        # #find last character Unnecessary asl womp womp
-        # for elementInLastCol in range(n-1,m*n,n):
-        #     if encodedText[elementInLastCol] != " ":
-        #         indexOfLastElement = elementInLastCol
-        #         print(f"{elementInLastCol=}")
-        #         print(f"{encodedText[elementInLastCol]=}")
-        #         break
             
         for col in range(n):
             for row in range(m):
                 i = col + (row*(n+1))
                 if i >= len(encodedText): break
-                originalText += encodedText[i]
+                originalText.append(encodedText[i])
         
-        return originalText.rstrip()
+        return "".join(originalText).rstrip()
