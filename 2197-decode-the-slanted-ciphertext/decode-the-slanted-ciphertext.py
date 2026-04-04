@@ -1,6 +1,6 @@
 class Solution:
     def decodeCiphertext(self, encodedText: str, rows: int) -> str:
-        if not encodedText: return encodedText
+        # if not encodedText: return encodedText
         # 0,0 0,1 0,2 0,3 0,4 0,5
         # ""  1,1 1,2 1,3 1,4 1,5
         #                     2,5
@@ -24,13 +24,16 @@ class Solution:
 
         #Add the character at m+n. If we do m steps then that means we have to go back to the start of "a new col"
         #Stop when you reach the end of original text
-        originalText = []
-        m, n = rows, len(encodedText)//rows
+        # originalText = []
+        # m, n = rows, len(encodedText)//rows
             
-        for col in range(n):
-            for row in range(m):
-                i = col + (row*(n+1))
-                if i >= len(encodedText): break
-                originalText.append(encodedText[i])
+        # for col in range(n):
+        #     for row in range(m):
+        #         i = col + (row*(n+1))
+        #         if i >= len(encodedText): break
+        #         originalText.append(encodedText[i])
         
-        return "".join(originalText).rstrip()
+        # return "".join(originalText).rstrip()
+        n = len(encodedText)//rows
+        return ''.join(encodedText[j::n+1] for j in range(n)).rstrip()
+
