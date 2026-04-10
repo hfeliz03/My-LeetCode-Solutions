@@ -4,7 +4,6 @@ class TimeMap:
 
     def __init__(self):
         self.timeMap = defaultdict(list)
-        #put on each key a heap
 
     def set(self, key: str, value: str, timestamp: int) -> None:
         heapq.heappush(self.timeMap[key], [timestamp, value])
@@ -18,7 +17,9 @@ class TimeMap:
         prevTimeStamp = ""
         while l <= r:
             mid = (l+r) // 2
-            if listOfTimeStamps[mid][0] == timestamp: return listOfTimeStamps[mid][1]
+            if listOfTimeStamps[mid][0] == timestamp: 
+                prevTimeStamp = listOfTimeStamps[mid][1]
+                break
             elif listOfTimeStamps[mid][0] > timestamp:
                 r = mid -1
             else: 
