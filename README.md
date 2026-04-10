@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Depth-First Search
 |  |
 | ------- |
