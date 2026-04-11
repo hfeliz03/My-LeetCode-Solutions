@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Depth-First Search
 |  |
 | ------- |
