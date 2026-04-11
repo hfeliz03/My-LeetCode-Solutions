@@ -13,7 +13,7 @@ class Solution:
         #Get minDistance
         for k, v in myDict.items():
             for i in range(0, len(v)-2):
-                curDistance = abs(v[i] - v[i+1]) + abs(v[i] - v[i+2]) + abs(v[i+2] - v[i+1])
+                curDistance = 2 * (v[i+2] - v[i])
                 minDistance = min(minDistance, curDistance)
 
         return minDistance 
