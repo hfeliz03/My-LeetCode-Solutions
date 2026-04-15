@@ -1,15 +1,13 @@
 class Solution:
     def closestTarget(self, words: List[str], target: str, startIndex: int) -> int:
         if target not in set(words): return -1
-        minDis = 10**5
-        disForward = disBackward = 10**5
+        res = 10**5
         n = len(words)
         for i in range(n):
             if words[(startIndex + i ) % n] == target: 
-                disForward = i
+                res = i
                 break
-        for i in range(n):
-            if words[(startIndex - i + n ) %n] == target:
-                disBackward = i
+            elif words[(startIndex - i + n ) %n] == target:
+                res = i
                 break
-        return min(disForward, disBackward)
+        return res
