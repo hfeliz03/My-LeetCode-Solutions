@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3453-separate-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
+| [3488-closest-equal-element-queries](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3453-separate-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
+| [3488-closest-equal-element-queries](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [3488-closest-equal-element-queries](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
