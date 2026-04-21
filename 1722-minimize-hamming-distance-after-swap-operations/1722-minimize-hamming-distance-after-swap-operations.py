@@ -1,49 +1,32 @@
 class Solution:
     def minimumHammingDistance(self, source: List[int], target: List[int], allowedSwaps: List[List[int]]) -> int:
-        #This was genuinely hard to think of AND code 
         n = len(source)
-
-        parent = list(range(n)) #0,1,2,....n 
-        rank = [0] * n #[0,0,0,0,...0]
+        parent = list(range(n))
 
         def find(x: int) -> int:
             if parent[x] != x:
                 parent[x] = find(parent[x])
             return parent[x]
 
-        def union(x: int, y: int) -> None:
-            rx, ry = find(x), find(y)
-            if rx == ry:
-                return
+        def union(a: int, b: int) -> None:
+            ra, rb = find(a), find(b)
+            if ra != rb:
+                parent[rb] = ra
 
-            if rank[rx] < rank[ry]:
-                parent[rx] = ry
-            elif rank[rx] > rank[ry]:
-                parent[ry] = rx
-            else:
-                parent[ry] = rx
-                rank[rx] += 1
-
-        # Build connected components
         for a, b in allowedSwaps:
             union(a, b)
 
-        # Group indices by component root
-        groups = defaultdict(list)
+        groups = defaultdict(Counter)
+
         for i in range(n):
             root = find(i)
-            groups[root].append(i)
+            groups[root][source[i]] += 1
+            groups[root][target[i]] -= 1
 
-        # Count mismatches component by component
-        answer = 0
+        ans = 0
+        for counter in groups.values():
+            for v in counter.values():
+                if v > 0:
+                    ans += v
 
-        for indices in groups.values():
-            source_count = Counter(source[i] for i in indices)
-            target_count = Counter(target[i] for i in indices)
-
-            # Anything extra in source that cannot be matched adds to answer
-            for val, freq in source_count.items():
-                matched = min(freq, target_count.get(val, 0))
-                answer += freq - matched
-
-        return answer
+        return ans
