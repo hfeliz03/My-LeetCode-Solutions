@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union Find
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 ## Quickselect
