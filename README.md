@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 ## Counting Sort
 |  |
