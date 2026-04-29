@@ -1,1 +1,1 @@
-<h2>furthest-point-from-origin Notes</h2><hr>[ Time taken: 13s ]
+<h2>furthest-point-from-origin Notes</h2><hr>[ Time taken: 6s ]
