@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0528-random-pick-with-weight](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
+| [0788-rotated-digits](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1048-longest-string-chain](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
