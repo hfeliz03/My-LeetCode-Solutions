@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0057-insert-interval) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0212-word-search-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0202-happy-number) |
