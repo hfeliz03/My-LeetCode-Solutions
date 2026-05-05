@@ -5,34 +5,30 @@
 #         self.next = next
 class Solution:
     def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        #find the tail, and prevtail
-        #make tail.next = head
-        #make head = tail
-        #make prevtail.next = none
-        #loop k times
-        cur = head
-        n = 0
-        while cur:
-            cur = cur.next
+
+        if not head or not head.next: return head
+
+        # Find length and tail
+        n = 1
+        tail = head
+
+        while tail.next:
+            tail = tail.next
             n += 1
-        if not head or n == k: return head
         k %= n
+        if k == 0: return head
+        
+        # Make it circular
+        tail.next = head
 
-        def findTailAndPrev(head):
-            cur = head
-            prev = None
-            while cur.next:
-                prev = cur
-                cur = cur.next
-            return prev, cur
+        # New tail is n - k - 1 steps from old head
+        steps_to_new_tail = n - k - 1
+        new_tail = head
 
-        cur = head
-        for _ in range(k):
-            prev, tail = findTailAndPrev(cur)
-            tail.next = head
-            head = tail
-            prev.next = None
+        for _ in range(steps_to_new_tail):
+            new_tail = new_tail.next
 
-        return head
+        new_head = new_tail.next
+        new_tail.next = None
 
-        #while finding for tail, if lenlist == k just return head
+        return new_head
