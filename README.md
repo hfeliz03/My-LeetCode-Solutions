@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [1382-balance-a-binary-search-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
