@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0212-word-search-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0528-random-pick-with-weight](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
