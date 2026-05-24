@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1340-jump-game-v](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [1048-longest-string-chain](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1340-jump-game-v](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
