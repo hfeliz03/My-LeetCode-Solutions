@@ -6,5 +6,6 @@ class Solution:
             sumNumArr = 0
             for numStr in numArr: 
                 sumNumArr += int(numStr)
+                if sumNumArr >= minNum: break
             minNum = min(minNum, sumNumArr)
         return minNum
