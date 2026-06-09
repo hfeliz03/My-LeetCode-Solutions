@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3689-maximum-total-subarray-value-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Tree
 |  |
 | ------- |
