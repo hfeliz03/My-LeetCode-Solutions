@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3838-weighted-word-mapping](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
+| [3838-weighted-word-mapping](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3838-weighted-word-mapping](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Combinatorics
 |  |
 | ------- |
