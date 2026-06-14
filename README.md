@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sliding Window
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
