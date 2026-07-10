@@ -9,9 +9,7 @@ class Solution:
         dummy = ListNode("dummy", curr)
         prev = dummy
         while curr:
-            print(curr.val)
             if curr.val == val:
-                print("hit")
                 prev.next = curr.next    
             else:
                 prev = prev.next
