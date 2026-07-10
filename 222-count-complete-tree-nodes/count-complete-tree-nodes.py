@@ -16,9 +16,31 @@
 #         helper(root)
 #         return count
 
+# class Solution:
+#     def countNodes(self, root: Optional[TreeNode]) -> int:
+#         if not root:
+#             return 0
+
+#         return 1 + self.countNodes(root.left) + self.countNodes(root.right)
+#How on earth can this be easy lmao
 class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
 
-        return 1 + self.countNodes(root.left) + self.countNodes(root.right)
+        left_height = self.get_height(root.left)
+        right_height = self.get_height(root.right)
+
+        if left_height == right_height:
+            return (2 ** left_height) + self.countNodes(root.right)
+
+        return (2 ** right_height) + self.countNodes(root.left)
+
+    def get_height(self, node: Optional[TreeNode]) -> int:
+        height = 0
+
+        while node:
+            height += 1
+            node = node.left
+
+        return height
