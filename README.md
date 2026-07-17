@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3379-transformed-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2540-minimum-common-value](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3453-separate-squares-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3453-separate-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3488-closest-equal-element-queries](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -274,10 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -315,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -438,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2833-furthest-point-from-origin](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
+| [3312-sorted-gcd-pair-queries](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -580,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3312-sorted-gcd-pair-queries](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
