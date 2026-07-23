@@ -1,5 +1,6 @@
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
+        @cache
         def helper(curS, curP):
             if not curP: return not curS
             first_match = (bool(curS) and (curS[0] == curP[0] or curP[0] == "."))
