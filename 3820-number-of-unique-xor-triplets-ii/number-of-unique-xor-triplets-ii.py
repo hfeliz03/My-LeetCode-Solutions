@@ -6,7 +6,7 @@ class Solution:
             for j in range(i, len(nums)):
                 pairs.add(nums[i] ^ nums[j])
         
-        for val in list(pairs):
+        for val in pairs:
             for k in range(len(nums)):
                 res.add(val ^ nums[k])
 
