@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0528-random-pick-with-weight](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0621-task-scheduler](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0846-hand-of-straights) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0528-random-pick-with-weight](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
+| [0628-maximum-product-of-three-numbers](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [1048-longest-string-chain](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
