@@ -1,7 +1,6 @@
 class Solution:
     def minimumPushes(self, word: str) -> int:
         wordFreq = Counter(word)
-        #if len(wordFreq) < 9: return len(wordFreq)
 
         countDict = defaultdict(list)
         for key, val in wordFreq.items():
