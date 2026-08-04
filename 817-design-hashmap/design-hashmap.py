@@ -16,9 +16,8 @@ class MyHashMap:
 
     def remove(self, key: int) -> None:
         value = self.get(key)
-        for k,v in self.hashmap:
-            if (k,v) == (key, value):
-                self.hashmap.remove((key,value))
+        if value != -1:
+            self.hashmap.remove((key,value))
         return 
         
 
