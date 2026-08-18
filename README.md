@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3453-separate-squares-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3488-closest-equal-element-queries](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
