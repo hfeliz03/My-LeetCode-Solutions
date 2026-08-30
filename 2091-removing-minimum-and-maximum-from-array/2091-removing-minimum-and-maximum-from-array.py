@@ -12,6 +12,4 @@ class Solution:
                 maxNum = num
                 maxNumIndex = i
 
-        res = 0
-        # 5, 12, 6, 7
         return min( (n - minNumIndex) + (maxNumIndex + 1), (n - maxNumIndex) + (minNumIndex + 1), max(minNumIndex, maxNumIndex) + 1,  n - min(minNumIndex, maxNumIndex) )
