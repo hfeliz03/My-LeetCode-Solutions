@@ -1,35 +1,36 @@
 class Solution:
     def uniformArray(self, nums1: list[int]) -> bool:
-        nums2Even = []
+        
         nums1Sorted = sorted(nums1)
         #all even:
+        valid = False
         for i, numi in enumerate(nums1):
-            if numi % 2 == 0: nums2Even.append(numi)
-            else: #get a number smaller than num and that is odd
+            if numi % 2 == 0: valid = True
+            else: #get a number smaller than num and that changes its parity
                 for numj in nums1Sorted:
                     if numj % 2 == 1 and numi != numj and numi - numj >= 1: 
-                        nums2Even.append(numi - numj)
+                        valid = True
                         break
-            if len(nums2Even) == i: 
-                nums2Even = [] #couldnt find a number that fulfils our condition"
+            if not valid: 
                 break
-        
 
-        nums2Odd = []
+            if i != len(nums1) - 1: valid = False
+        
+        if valid : return True
+
         #all odd:
         for i, numi in enumerate(nums1):
-            if numi % 2 == 1: nums2Odd.append(numi)
-            else: #get a number smaller than num and that is even
+            if numi % 2 == 1: valid = True
+            else: 
                 for numj in nums1Sorted:
                     if numj % 2 == 1 and numi != numj and numi - numj >= 1: 
-                        nums2Odd.append(numi - numj)
+                        valid = True
                         break
-            if len(nums2Odd) == i: 
-                nums2Odd = [] #couldnt find a number that fulfils our condition"
+            if not valid: 
                 break
+
+            if i != len(nums1) - 1: valid = False
         
-        print(nums2Even)
-        print(nums2Odd)
-        return True if nums2Odd or nums2Even else False
+        return valid
         
 
