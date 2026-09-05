@@ -8,7 +8,8 @@ class Solution:
         for num in nums[len(nums)-2::-1]:
             minRight.append(min(num, minRight[-1]))
         
-        minRight = minRight[::-1]
+        minRight.reverse()
+        
         res = -1
         for i in range(len(nums)):
             if maxLeft[i] - minRight[i] <= k:
