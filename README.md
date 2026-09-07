@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
