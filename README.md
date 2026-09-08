@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0269-alien-dictionary) |
 | [0289-game-of-life](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0778-swim-in-rising-water](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0528-random-pick-with-weight](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0304-range-sum-query-2d-immutable](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0981-time-based-key-value-store](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1622-fancy-sequence](https://github.com/hfeliz03/My-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 ## Topological Sort
