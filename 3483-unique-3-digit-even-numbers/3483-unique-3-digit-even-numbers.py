@@ -5,7 +5,6 @@ class Solution:
         def toAdd(num):
             nonlocal setEvens
             if len(num) == 3 and int(num) % 2 == 0:
-                print(num)
                 setEvens.add(num)
             return
 
