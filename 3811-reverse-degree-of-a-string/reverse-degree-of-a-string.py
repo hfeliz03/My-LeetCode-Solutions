@@ -5,7 +5,6 @@ class Solution:
         for i in range(26):
             alphabetRev[chr(i+97)] = 26 - i
         
-        print(alphabetRev)
         for i, char in enumerate(s):
             res += alphabetRev[char] * (i+1) 
 
