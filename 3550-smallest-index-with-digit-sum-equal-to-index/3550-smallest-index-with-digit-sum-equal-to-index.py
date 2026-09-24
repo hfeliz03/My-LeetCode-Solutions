@@ -5,7 +5,5 @@ class Solution:
             sumDigits = 0
             for digit in numStr: 
                 sumDigits += int(digit)
-            print(sumDigits)
-            print(num)
             if sumDigits == i: return i
         return -1
