@@ -3,7 +3,6 @@ class Solution:
         knowledge = {key: val for key, val in knowledge}
         s = s.split(")")
         res = ""
-        print(s)
         for substr in s:
             for i, char in enumerate(substr):
                 if char != "(": res += char
